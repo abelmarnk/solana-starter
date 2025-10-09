@@ -1,0 +1,15 @@
+{
+  "name":"BANG! BANG!",
+  "symbol": "BANG!",
+  "description": "Spike is back from the dead!!!",
+  "image": "https://raw.githubusercontent.com/abelmarnk/solana-starter/master/ts/cluster1/files/Spike.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/abelmarnk/solana-starter/master/ts/cluster1/files/Spike.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

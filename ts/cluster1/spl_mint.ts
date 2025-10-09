@@ -30,7 +30,7 @@ const mint = new PublicKey("pkYC543qCgtrB3At5WEa6XgWRtDKf1KzcD5PxkpVSEY");
             mint,
             ata.address,
             keypair,
-            1_000_000,
+            100_000_000,
         );
 
         const ataAfterMint = await getOrCreateAssociatedTokenAccount(
