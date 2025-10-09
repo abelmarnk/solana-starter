@@ -15,7 +15,7 @@ const mint = new PublicKey("pkYC543qCgtrB3At5WEa6XgWRtDKf1KzcD5PxkpVSEY");
 const from = new PublicKey("EibqN1sJ8mRkYKvvSWjxDvPjvmnfkMQ2XsiR6jqg8uFq");
 
 // Recipient address
-const to = new PublicKey("GsJYonU5Kz4MJBHZ5UFx9oyStBpXXswnZcFUorktj2yZ");
+const to = new PublicKey("8vvA5LvoxycFBCGhqRvNe6Na5dB73jBjwzmUctejZLvo");
 
 (async () => {
     try {
